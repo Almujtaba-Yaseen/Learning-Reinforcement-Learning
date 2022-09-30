@@ -4,3 +4,5 @@ This repo is for tracking my RL learning journey (at least at the beginning).
 
 
 - Going through the exercises in dennybritz's RL repo (link: https://github.com/dennybritz/reinforcement-learning), see the folder above: my solutions to the exercises in dennybritz repo.
+
+- Please navigate through the above folders to review the algorithms I implemented so far. 
